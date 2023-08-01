@@ -1,0 +1,201 @@
+body {
+  background-image: url(img/fundo.png);
+  width: 345px;
+  height: 631px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: inter;
+
+  }
+
+/* Estilo do cabeçalho */
+header {
+  background-color: none;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Estilo do logotipo do cabeçalho */
+header img {
+  max-width: 200px;
+}
+
+
+/* Estilo do título do cabeçalho */
+header h1 {
+  font-size: 32px;
+  margin-top: 20px;
+  font-size: 32px;
+  color: #ffcf16;
+  margin-top: 61px;
+  position: absolute;
+  left: 206px;
+  top: 136px;
+  text-align: left;
+  font-family: Inter;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+
+
+/* Estilo do sub-título do cabeçalho */
+header h3 {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  font-weight: 00;
+  line-height: normal;
+  letter-spacing: -1.2px;
+  position: absolute;
+  top: 395px;
+  line-height: 29px;
+  left: 206px;
+}
+
+
+/* Estilo do formulário */
+.formulario {
+  background: none;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  
+  border-radius: 8px;
+  
+  position: absolute;
+  left: 697px;
+  top: 0px;
+  height: 572px;
+  /* width: 542px; */
+  width: 504px;
+  /* height: 608px; */
+}
+
+/* Estilo do título do formulário */
+.formulario h1 {
+
+  margin-bottom: 10px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+
+/* Estilo do sub-título do formulário */
+.formulario h4 {
+  margin-bottom: 14px;
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+  letter-spacing: 0.4px;
+}
+
+
+/* Estilo das etiquetas (labels) */
+.formulario label {
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0.10px;
+  position: relative;
+  left: 9px;
+}
+
+/* Estilo dos campos de entrada (inputs) */
+.formulario input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ffcf16;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  /* width: 100%; */
+  /* padding: 11px; */
+  /* font-size: 16px; */
+  /* border: 1px solid #ccc; */
+  /* margin-bottom: 22px; */
+  /* border-radius: 4px; */
+  /* position: absolute; */
+  align-items: flex-end;
+  align-content: end;
+  background: #D9D9D9;
+  position: relative;
+  left: 6px;
+  background: none;
+}
+
+
+/* Estilo do botão de envio */
+.formulario button {
+  color: black;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 297px;
+  height: 54px;
+  border-radius: 25px;
+  background: #ffcf16;
+  position: absolute;
+  top: 439px;
+  left: 12px;
+  font-weight: 700;
+}
+
+
+
+/* Estilo do botão de envio ao passar o mouse */
+.formulario button:hover {
+  background-color: #ff9900;
+}
+form{
+  position: absolute;
+  top: 77px;
+  left: 102px;
+}
+
+
+.imagem-logo{
+  position: absolute;
+    top: 9px;
+    left: 352px;
+}
+.vagas {
+  color: rgb(255, 166, 0);
+  padding: 10px;
+  text-align: center;
+}
+
+.inscricao {
+  color:#FFF;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.logo{
+
+}
+.trac{
+
+}
